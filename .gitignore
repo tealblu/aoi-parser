@@ -1,0 +1,7 @@
+data/
+build/
+dist/
+parsing-log.txt
+aoi-log-parser.build/
+aoi-log-parser.dist/
+aoi-log-parser.onefile-build/
